@@ -7,8 +7,8 @@
 ***Technology Stack:***
 - Programming Language: Python
 - Database: SQLite3
-- Containerization: Docker
-\n
+- Containerization: Docker  
+
 ***How to Run (Docker)***
 - Clone the repository.
 - Build the Docker Image by `docker build -t library_management .`
