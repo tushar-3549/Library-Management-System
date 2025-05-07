@@ -1,4 +1,4 @@
-# 📚 Library Management System
+## 📚 Library Management System
 
 A minimal yet functional **Library Management System** built with **Python**, **SQLite**, and object-oriented design. It allows you to manage books, members, and their borrowing history — ideal for small libraries or learning DB-backed applications.
 
